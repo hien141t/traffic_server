@@ -1,0 +1,19 @@
+{
+    "name": "bc",
+    "targetUrl": "https://zhxbidv.com",
+    "targetClicks": 1200,
+    "startTime": 1788154980000,
+    "endTime": 1788198000000,
+    "startTimeStr": "2026-08-31T12:43",
+    "endTimeStr": "2026-09-01T00:40",
+    "scheduleMode": "smart",
+    "customBlocks": null,
+    "cleanMode": "incognito",
+    "browserMode": "request",
+    "cooldownSec": null,
+    "dwellMin": 2,
+    "dwellMax": 5,
+    "humanActions": true,
+    "randomLinks": true,
+    "dedupIp": true
+}

@@ -1,0 +1,27 @@
+{
+    "name": null,
+    "targetUrl": "https://zhxbidv.com",
+    "targetClicks": 1200,
+    "startTime": 1788176760000,
+    "endTime": 1788191160000,
+    "startTimeStr": "2026-08-31T18:46",
+    "endTimeStr": "2026-08-31T22:46",
+    "scheduleMode": "custom",
+    "customBlocks": {
+        "night": "low",
+        "early_morning": "medium",
+        "morning": "high",
+        "noon": "medium",
+        "afternoon": "high",
+        "evening": "high",
+        "late_night": "medium"
+    },
+    "cleanMode": "incognito",
+    "browserMode": "request",
+    "cooldownSec": 11,
+    "dwellMin": 2,
+    "dwellMax": 5,
+    "humanActions": true,
+    "randomLinks": true,
+    "dedupIp": true
+}
